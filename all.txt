@@ -1,2 +1,6 @@
 west
+west east
 east
+south
+north
+northeast
